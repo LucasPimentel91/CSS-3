@@ -13,15 +13,17 @@ main{
     background-color: #ffff8c;
     color:black;
     border-radius: 5px;
-    a{
-        color: green;
-    }
-    button{
-        background-color: green;
-        color: black;
-    }
 }
 
+a{
+    color: green;
+}
+
+button{
+    background-color: green;
+    border: 2px solid transparent;
+    border-radius: 5px;
+}
 footer{
     background-color: white;
     border-radius: 5px;
